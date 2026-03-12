@@ -23,7 +23,7 @@ repository               : "Xilin-Yan/XilinYan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xilin Yan"
   pronouns         : # example: "she/her"  
   bio              : "Applied Mathematics student at UC Berkeley interested in scientific machine learning, PDE modeling, data analysis, and quantitative research."
