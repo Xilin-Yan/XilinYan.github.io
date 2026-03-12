@@ -42,7 +42,7 @@ Feb 2024–Dec 2025
 - Built a dual-branch architecture combining a Fourier Neural Operator backbone for dense field modeling with a Transformer encoder for sparse sensor representations.
 - Evaluated models on Navier–Stokes and Shallow Water PDE benchmarks, achieving up to 28% relative error reduction and strong zero-shot generalization.
 
-**Online Researcher & Corresponding Author for Research Abstract**  
+**Researcher & Corresponding Author for Research Abstract**  
 *Biomechanics Lab, San José State University*  
 Freshman year
 
@@ -52,7 +52,7 @@ Freshman year
 - Simulated biomechanical processes with COMSOL.
 - Wrote a research abstract on the impact of advanced running shoes on biomechanical performance.
 
-**Learner & Online Researcher**  
+**Learner & Researcher**  
 *Department of Applied Mathematics, Brown University*  
 Freshman year
 
